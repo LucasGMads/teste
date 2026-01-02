@@ -2,7 +2,6 @@
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 operador = input("Digite a operação (+, -, *, /): ")
-
 #Faz a conta de acordo com a operção escolhida
 if operador == '+':
     resultado = num1 + num2
